@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these processed data or plotting scripts, cite the Data in Brief article and the version-specific archived data/code release when available."
+title: "Shotgun metagenomics dataset of goat manure and maize rhizosphere from an integrated crop-livestock system — processed matrices and plotting scripts"
+version: 1.0.0
+repository-code: "https://github.com/REPLACE-ACCOUNT/ICLS-Shotgun-Metagenomics-Data"
+authors:
+  - family-names: "Babalola"
+    given-names: "Olubukola Oluranti"
+  - family-names: "Thebe"
+    given-names: "Tumelo Isaac"
+  - family-names: "Enagbonma"
+    given-names: "Ben Jesuorsemwen"
+  - family-names: "Mamphogoro"
+    given-names: "Tshifhiwa Paris"

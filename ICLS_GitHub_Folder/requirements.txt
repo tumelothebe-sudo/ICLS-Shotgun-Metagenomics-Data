@@ -1,0 +1,5 @@
+# Dependencies for the two final publication figure-generation scripts only.
+# Original upstream Novogene processing used different tools (see docs).
+numpy>=1.24,<3
+pandas>=2.0,<3
+matplotlib>=3.7,<4
