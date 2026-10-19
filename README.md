@@ -104,3 +104,15 @@ CARD annotations are **sequence-based predictions**.
 ## Citation, rights and release
 
 The manuscript is under revision. See [release checklist](docs/RELEASE_CHECKLIST.md).
+
+## Licensing
+
+This repository uses separate licenses for code and data:
+
+- **Python scripts (`scripts/`):** MIT License; see [`LICENSE`](LICENSE).
+- **Researcher-produced processed data (`data/`) and figures (`figures/`):** Creative Commons Attribution 4.0 International (CC BY 4.0); see [`DATA_LICENSE.md`](DATA_LICENSE.md).
+- **Original third-party/provider source files:** not automatically covered by either license. In particular, see the exception for `data/qc/source/` in `DATA_LICENSE.md`; redistribution and relicensing require applicable permission.
+- **Raw SRA sequence reads:** maintained under the cited NCBI SRA accession records, rather than relicensed here.
+
+Please cite the manuscript-associated archived release and follow the attribution instructions in `CITATION.cff` and `DATA_LICENSE.md`.
+

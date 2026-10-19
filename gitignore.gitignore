@@ -1,0 +1,7 @@
+# Local Python and R files
+.Rhistory
+__pycache__/
+*.pyc
+.venv/
+output/
+.ipynb_checkpoints/
